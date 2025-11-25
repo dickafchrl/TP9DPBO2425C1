@@ -1,6 +1,8 @@
 # TP9DPBO2425C1
 
 ## JANJI
+Saya Dicka Fachrunaldo Kartamiharja dengan NIM 2407846mengerjakan Tugas Praktikum 9 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek dengan keberkahan-Nya.Saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
+Aamiin.
 
 ## 1. Desain Program (Arsitektur MVP)
 - Proyek ini menggunakan pola MVP – Passive View, artinya:
